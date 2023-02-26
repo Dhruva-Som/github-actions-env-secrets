@@ -2,7 +2,7 @@ name: Deployment Using Env variables
 on:
   push:
     branches:
-      - main
+      - master
       - dev
 env:
   MONGODB_CLUSTER_ADDRESS: dhruva-learning.zzun0hm.mongodb.net
