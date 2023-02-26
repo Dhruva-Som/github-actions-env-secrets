@@ -1,4 +1,4 @@
-name: Deployment Using Env
+name: Deployment Using Env variables
 on:
   push:
     branches:
